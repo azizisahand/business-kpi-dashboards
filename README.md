@@ -1,5 +1,6 @@
 # Business KPI Dashboard Project (Looker & BigQuery)
 
+  ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ## Overview
 This repository provides comprehensive documentation for our critical **Business Key Performance Indicator (KPI)** dashboards. These dashboards are built using Looker on top of Google BigQuery, with a raw data source originating from a spreadsheet and a sales prediction model developed in Python. Given the temporary nature of some data within Google Cloud environments, this repository ensures all vital project assets, from raw data to final dashboards and analytical code, are preserved and easily accessible.
 
